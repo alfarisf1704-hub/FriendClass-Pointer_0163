@@ -8,9 +8,9 @@ public:
     void showNilaiPelajar(pelajar &x);
 };
 
-class pelajara
+class pelajar
 {
-    privatea;
+private:
     int nilai;
 
 public:
